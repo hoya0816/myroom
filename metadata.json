@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "Gemini AI를 활용한 텍스트 작성, 이미지 생성 및 검색 기반 연구를 지원하는 통합 크리에이티브 스튜디오",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
